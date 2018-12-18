@@ -16,6 +16,15 @@ namespace TabEx06
             {
                 Console.WriteLine(allTheWeek);
             }
+
+            /*
+            week lundi = week.Lundi;
+            Console.WriteLine(lundi);
+            week mardi = week.Mardi;
+            Console.WriteLine(mardi);
+            week mercredi = week.Mercredi;
+            Console.WriteLine(mercredi);
+            ... */
         }
     }
 }
